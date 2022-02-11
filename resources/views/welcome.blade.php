@@ -41,7 +41,7 @@
                             <div class="ml-12">
                                 <input type="hidden" name="timezone" id="timezone">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card">
                                         <ul class="list-group list-group-flush todo_data">
                                         </ul>
                                     </div>
